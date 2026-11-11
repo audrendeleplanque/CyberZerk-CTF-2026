@@ -1,0 +1,9 @@
+[chat #support-marc - 09/11/2026]
+
+16:03  marc> le gars au tel tout a l'heure m'a fait installer un truc,
+             un "agent de maintenance"
+16:04  marc> il a dit que c'etait pour verifier mon poste a distance
+16:05  marc> en regardant les logs de l'agent j'ai vu un truc bizarre,
+             ca ressemble a un code
+16:05  marc> 6331346c335f4272317333337d
+16:06  marc> ca vous dit quelque chose ? j'ai un mauvais pressentiment

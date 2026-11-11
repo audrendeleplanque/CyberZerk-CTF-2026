@@ -1,0 +1,36 @@
+=================== BOÎTE DE RÉCEPTION (export) ===================
+
+----- Mail 1 -----
+From: paie@tricatel-cyber.fr
+Received: from mx.tricatel-cyber.fr (192.168.10.4)
+Authentication-Results: spf=pass dkim=pass dmarc=pass
+Subject: Bulletin de paie - octobre
+X-Tracking-Id: bm90X3BoaXNoaW5nXzE=
+Votre bulletin est disponible sur l'intranet habituel.
+
+----- Mail 2 -----
+From: it-support@tricatel-cyber.fr
+Received: from mx.tricatel-cyber.fr (192.168.10.4)
+Authentication-Results: spf=pass dkim=pass dmarc=pass
+Subject: Maintenance planifiée samedi
+X-Tracking-Id: bm90X3BoaXNoaW5nXzI=
+Le VPN sera indisponible samedi de 2h à 4h.
+
+----- Mail 3 -----
+From: "DRH Tricatel" <rh@tricatel-cyber.fr>
+Received: from srv-ovh-237.cheap-bulk-mail.ru (45.83.12.207)
+Authentication-Results: spf=fail dkim=none dmarc=fail
+Subject: URGENT - Vérifiez vos accès sous 24h
+X-Tracking-Id: Q3liZXJaZXJre1VuX0Iwbl9SM2ZsM3gzX1VuX0NsMWNfRXYxdDN9
+Votre compte sera suspendu. Cliquez vite : http://tricatel-cyber.secure-login[.]ru/verif
+
+----- Mail 4 -----
+From: newsletter@tricatel-cyber.fr
+Received: from mx.tricatel-cyber.fr (192.168.10.4)
+Authentication-Results: spf=pass dkim=pass dmarc=pass
+Subject: La Minute Bien-être de la semaine
+X-Tracking-Id: bm90X3BoaXNoaW5nXzQ=
+Pensée du jour : souriez, c'est gratuit !
+
+Indice : un seul de ces mails ne vient pas vraiment de Tricatel.
+Son identifiant de suivi en dit long.
