@@ -1,0 +1,15 @@
+GET / HTTP/1.1
+Host: intranet.tricatel.local
+
+HTTP/1.1 200 OK
+Date: Sat, 14 Nov 2026 09:12:44 GMT
+Server: Apache/2.4.58 (Debian)
+X-Powered-By: PHP/8.3.6
+Cache-Control: no-store
+Content-Type: text/plain; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Service-Door: Q3liZXJaZXJre3AwcnQzX2QzX3MzcnYxYzNfY2FjaDMzX2RhbnNfdW5fM250M3QzfQ==
+Set-Cookie: session=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 41
+
+Intranet Tricatel — maintenance en cours.
