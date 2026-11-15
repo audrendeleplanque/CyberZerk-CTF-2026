@@ -12,7 +12,6 @@
 Enregistrement laissé sur la messagerie interne. L'oreille n'entend qu'un bruit… mais l'œil ?
 
 ## Fichiers fournis
-- README.txt
 - message.wav
 
 ---
