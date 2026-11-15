@@ -1,0 +1,16 @@
+From: "Service RH Tricatel" <rh@tricatel.example>
+Return-Path: <no-reply@tricatel-rh-verification.xyz>
+Reply-To: securite-rh@tricatel-rh-verification.xyz
+To: marc.v@tricatel.example
+Subject: [ACTION REQUISE] Verification de votre compte sous 24h
+Date: Wed, 11 Nov 2026 03:12:07 +0000
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>Bonjour,</p>
+<p>Une anomalie a ete detectee sur votre compte. Pour eviter sa suspension,
+confirmez vos identifiants <b>sous 24 heures</b> :</p>
+<p><a href="http://tricatel-rh-verification.xyz/login?id=Q3liZXJaZXJre24zX2NsMXF1M3pfcGFzXzFuc3AzY3Qzel9sM19sMTNufQ">
+https://portail-rh.tricatel.example/securite</a></p>
+<p>Cordialement,<br>La Direction des Ressources Humaines</p>
+</body></html>
